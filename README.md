@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Sonawane</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="/0_C-cPP9D2MIyeexAT.gif">
+<align="right"><img align="right" alt="Coding" width="400" src="/0_C-cPP9D2MIyeexAT.gif"></ALIGN>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanotech2&label=Profile%20views&color=0e75b6&style=flat" alt="nanotech2" /> </p>
 
